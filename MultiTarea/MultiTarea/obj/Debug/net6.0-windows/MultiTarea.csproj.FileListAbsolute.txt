@@ -1,0 +1,17 @@
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\bin\Debug\net6.0-windows\MultiTarea.exe
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\bin\Debug\net6.0-windows\MultiTarea.deps.json
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\bin\Debug\net6.0-windows\MultiTarea.runtimeconfig.json
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\bin\Debug\net6.0-windows\MultiTarea.dll
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\bin\Debug\net6.0-windows\MultiTarea.pdb
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.csproj.AssemblyReference.cache
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.Form1.resources
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.csproj.GenerateResource.cache
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.AssemblyInfoInputs.cache
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.AssemblyInfo.cs
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.dll
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\refint\MultiTarea.dll
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.pdb
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\MultiTarea.genruntimeconfig.cache
+C:\Users\Administrador\Source\Repos\MultiTarea\MultiTarea\obj\Debug\net6.0-windows\ref\MultiTarea.dll
